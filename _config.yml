@@ -5,16 +5,16 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: thaibinh120702 #if your site has a twitter account, enter it here
 
 # Author Settings
-author: PHAN DOAN THAI BINH \n aka PHAN JOHN # add your name
+author: Phan Doan Thai Binh # add your name
 author-img: dapiciAvatar.jpg # add your photo
 about-author: I am a software developer and also fascinated by Machine Learning. Always hungry to keep learning. # add description
-social-twitter: https://twitter.com/thaibinh120702 # add your Twitter handle
+social-twitter: thaibinh120702 # add your Twitter handle
 social-facebook: binhbip.bom.33 # add your Facebook handle
 social-github: binh120702 # add your Github handle
-social-linkedin: in/thaibinh120702 # add your Linkedin handle
+social-linkedin: thaibinh120702 # add your Linkedin handle
 social-email: thaibinh120702@gmail.com # add your Email address
 
 # Disqus

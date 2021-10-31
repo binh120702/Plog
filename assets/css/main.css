@@ -974,7 +974,7 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
+  text-transform: none;
   color: #333030;
   font-weight: 700;
 }
@@ -1221,7 +1221,7 @@ a.newer-posts:hover {
   position: relative;
   padding: 0;
   margin: 0;
-  max-height: 500px;
+  max-height: 600px;
   background-color: #fafafa;
   overflow: hidden;
 }
